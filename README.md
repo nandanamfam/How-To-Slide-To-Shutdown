@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a23db490-7148-4828-aa66-0982b0fa819d)# How To Slide To Shutdown (For Windows 10 or 11)
+# How To Slide To Shutdown (For Windows 10 or 11)
 make yourself lazy, by doing these simple steps!
 
 
